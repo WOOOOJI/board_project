@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+*{
+	margin:0;
+	padding:0;
+	list-style:none;
+	text-decoration:none;
+	color:black;
+}
+
+
+
+header{
+	background:gray;
+	width:1800px;
+	height:80px;
+	text-align: center;
+	margin:0 auto;
+}
+
+header>ul>li{
+	width:250px;
+	float:left;
+	height:80px;
+	line-height:80px;
+	font-size: 25px;
+}
+
+form > li{
+	float:left;
+}
