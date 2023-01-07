@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+#table{
+	width:1200px;
+	margin:0 auto;
+}
+
+thead tr th{
+	width:14%;
+}
+
+.subject{
+	width:55%;
+}
+.hit{
+	width:6%;
+}
+.boardno{
+	width:6%;
+}
+
+#paging{
+	margin:0 auto;
+	width:1200px;
+}
