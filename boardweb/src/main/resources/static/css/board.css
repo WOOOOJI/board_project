@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 #table{
-	width:1200px;
+	width:80%;
 	margin:0 auto;
 }
 
@@ -21,5 +21,21 @@ thead tr th{
 
 #paging{
 	margin:0 auto;
-	width:1200px;
+	width:80%;
+}
+
+form{
+	width:80%;
+	margin: 0 auto;
+}
+
+.btn{
+	margin:10px 0px 10px;
+	float:right;
+}
+
+.d-flex{
+	margin:0 auto;
+	width:40%;
+	
 }
